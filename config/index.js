@@ -89,9 +89,7 @@ export const USER_CONFIG = {
         // 在一起的日子
         {"keyword": "love_day", date: "2021-12-04"},
         // 宝宝生日
-        {"keyword": "birthday_day", date: "12-16"},
-       
-    },
+        {"keyword": "birthday_day", date: "12-16"}
     {
       name: "老婆1",
       id: "",
